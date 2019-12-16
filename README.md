@@ -1,2 +1,2 @@
 # roseNote
-note for learn 
+JS基础
